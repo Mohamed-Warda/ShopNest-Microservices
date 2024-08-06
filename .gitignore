@@ -1,0 +1,17 @@
+
+
+# Ignore Visual Studio and JetBrains Rider/IDEA project-specific directories
+.vs/
+.idea/
+
+# Ignore build output directories
+bin/
+obj/
+
+# If you have .vs or .idea folders in subdirectories, use the following lines:
+**/.vs/
+**/.idea/
+
+# If you have bin or obj folders in subdirectories, use the following lines:
+**/bin/
+**/obj/
